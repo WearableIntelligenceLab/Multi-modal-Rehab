@@ -22,11 +22,11 @@ Multi-modal-Rehab/
 │   └── visualization.ipynb
 │
 ├── Model/
-│   ├── Architecture Comparason.py
+│   ├── Architecture_Comparason.py
 │   ├── Arm_reach.ipynb
-│   ├── Channel Ablation.py
+│   ├── Channel_Ablation.py
 │   ├── Cross_Model_Prediction_with_SHAP.py
-│   ├── Grasp and bicep curl.ipynb
+│   ├── Grasp_and_bicep curl.ipynb
 │   ├── Power_grip.ipynb
 │   ├── Shared_Embedding_Model_with_SHAP.py
 │   └── Supination.ipynb
