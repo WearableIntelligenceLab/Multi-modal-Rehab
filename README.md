@@ -1,4 +1,4 @@
-# Multi-modal Rehabilitation Sensing and Modeling
+# An Intelligent Machine-Knitted Multimodal Sensing Sleeve for Upper-Limb Rehabilitation Monitoring
 
 This repository contains the data-processing, visualization, and machine-learning code for a multimodal wearable rehabilitation system.
 
